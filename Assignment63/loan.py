@@ -15,7 +15,7 @@ from sklearn.metrics import log_loss
 #------------------------------------------------
 # Step 2 : Load the dataset
 #-----------------------------------------------
-df = pd.read_csv("Customer_Loan_Approval (1).csv")
+df = pd.read_csv("Customer_Loan_Approval.csv")
 print("Display 5 rows:")
 print(df.head())
 
